@@ -2,6 +2,9 @@
 <div> <img src='notebook_images/linkedin_mobile.png' width='500'/> </div>
 Photo by <a href="https://unsplash.com/@rswebsols?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Souvik Banerjee</a> on <a href="https://unsplash.com/s/photos/linkedin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+### Notebook With Tutorial:  
+https://nbviewer.jupyter.org/github/mellamomark/linkedin-nlp-analysis/blob/master/linkedin_post_exploratory_analysis.ipynb
+
 ### Project Summary
 As a LinkedIn content creator, my main question is how do I create posts that drive engagement? This analysis utilizes natural language processing to understand the relationships between what type of words and or hashtags lead to higher engagement. The main assumption is that these relationships can potentially serve as a proxy for what content I should focus on creating to drive engagement.
 
