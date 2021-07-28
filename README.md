@@ -1,25 +1,28 @@
-# Part 1: LinkedIn Post Exploratory Analysis
+# 🌐 Part 1: LinkedIn Post Exploratory Analysis
 <div> <img src='notebook_images/linkedin_mobile.png' width='500'/> </div>
 Photo by <a href="https://unsplash.com/@rswebsols?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Souvik Banerjee</a> on <a href="https://unsplash.com/s/photos/linkedin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-### Notebook With Tutorial:  
+### 📓 Notebook With Tutorial:  
 https://nbviewer.jupyter.org/github/mellamomark/linkedin-nlp-analysis/blob/master/linkedin_post_exploratory_analysis.ipynb
 
-### Project Summary
+### 🔗 Interview With Naas AI On the Project
+[![](notebook_images/youtube_interview_screenshot.png)](https://youtu.be/NjUhb92i9eM?t=948)
+
+### 📝 Project Summary
 As a LinkedIn content creator, my main question is how do I create posts that drive engagement? This analysis utilizes natural language processing to understand the relationships between what type of words and or hashtags lead to higher engagement. The main assumption is that these relationships can potentially serve as a proxy for what content I should focus on creating to drive engagement.
 
 This notebook will serve as a guide for you to conduct an NLP analysis on your own LinkedIn post data. If you have not used LinkedIn much, then my own LinkedIn post data has been saved as a CSV in this repository for you to use.  
 
 Finally, this notebook is mainly an exploratory analysis where there will be many instances where we can create a function or class to better organize our code. I have made the intentional choice to NOT create functions at this step to specifically mimic the iterative process of an exploratory analysis. In part two we will productize this notebook to send a weekly report to our email-- there we will identify what's important to move forward from the anlysis, refactor our code, and place emphasis on creating scalble and easy maintain code.
 
-### Learning Objectives:
+### 💡 Learning Objectives:
 1. Creating an analysis plan for a data science project.
 2. Using Naas drivers to pull your LinkedIn post data.
 2. Feature engineering to create meaningful variables.
 3. Preparing text data for an NLP analysis.
 4. Conducting a bag-of-words NLP analysis.
 
-### Analysis Summary and Discussion
+### 🔬 Analysis Summary and Discussion
 1. What are my overall summary statistics for my LinkedIn posts? 
     - On average, my posts generates ~42 likes, 5 direct comments, and ~3200 views.
         - <div> <img src='notebook_images/overall_summary_stats.png' width='400'/> </div>
